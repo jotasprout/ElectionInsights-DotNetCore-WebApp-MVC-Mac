@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3BF4343E-18EC-44A5-9E98-7E47C6B737B6}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="ElectionInsights-DotNetCore-WebApp-MVC-Mac/README.md" Line="2" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElectionInsights-DotNetCore-WebApp-MVC-Mac" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="ElectionInsights-DotNetCore-WebApp-MVC-Mac" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ElectionInsights-DotNetCore-WebApp-MVC-Mac PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
