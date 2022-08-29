@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jaysprout/Projects/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac.csproj",
+      "projectUniqueName": "/Users/jaysprout/Documents/GitHub/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac.csproj",
       "projectName": "ElectionInsights-DotNetCore-WebApp-MVC-Mac",
-      "projectPath": "/Users/jaysprout/Projects/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac.csproj",
+      "projectPath": "/Users/jaysprout/Documents/GitHub/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac.csproj",
       "packagesPath": "/Users/jaysprout/.nuget/packages/",
-      "outputPath": "/Users/jaysprout/Projects/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/obj/",
+      "outputPath": "/Users/jaysprout/Documents/GitHub/ElectionInsights-DotNetCore-WebApp-MVC-Mac/ElectionInsights-DotNetCore-WebApp-MVC-Mac/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jaysprout/.nuget/NuGet/NuGet.Config"
